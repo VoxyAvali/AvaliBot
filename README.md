@@ -1,9 +1,6 @@
 # VoxyAvaliBot
 scuffed python-based twitch utility bot.
 
-# Important Note
-## I currently cannot get into the VoxyAvaliBot twitch account, until I find the password again. 
-this should not cause any issues but might prevent certain features from working.
 
 # Setup
 1. download the newest version from releases and extract it in a new folder.
