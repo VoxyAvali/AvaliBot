@@ -44,3 +44,7 @@ After that, the bot goes into listening mode, in which it logs all chat messages
 The Auto-Shoutout and end-of-stream-autoshutdown work by listening for specific messages from specific users, in this case it´s the default incoming raid message by Streamelements for the shoutouts, and the default message that Sery_Bot sends when you raid out which tells users where the raid went for the auto-shutdown.
 
 The bot doesn´t know, nor care, who is a moderator, who is a VIP, etc.. It doesn´t even know who the broadcaster is. In essence, all it does is listen to twitch chat and respond if needed. It only does what it is told via the .json files.
+
+
+
+private note: https://nsis.sourceforge.io/NSIS_Script_Editor
