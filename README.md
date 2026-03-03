@@ -1,3 +1,6 @@
+# THIS PROJECT IS CURRENTLY NON-FUNCTIONAL AND UNDERGOING MAINTENANCE
+# sincerely, Voxy
+
 # VoxyAvaliBot
 scuffed python-based twitch utility bot.
 
