@@ -49,5 +49,3 @@ The Auto-Shoutout and end-of-stream-autoshutdown work by listening for specific 
 The bot doesn´t know, nor care, who is a moderator, who is a VIP, etc.. It doesn´t even know who the broadcaster is. In essence, all it does is listen to twitch chat and respond if needed. It only does what it is told via the .json files.
 
 
-
-private note: https://nsis.sourceforge.io/NSIS_Script_Editor
