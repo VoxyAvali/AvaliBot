@@ -1,0 +1,6 @@
+# THIS PROJECT IS UNDERGOING MAJOR CHANGES
+you can find the old instructions at https://github.com/VoxyAvali/VoxyAvaliBot/blob/main/README_OLD.md
+
+## Planned Changes
+- Making the bot modular
+- making a proper installer & setup file
