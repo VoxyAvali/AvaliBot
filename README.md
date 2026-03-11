@@ -4,3 +4,4 @@ you can find the old instructions at https://github.com/VoxyAvali/VoxyAvaliBot/b
 ## Planned Changes
 - Making the bot modular
 - making a proper installer & setup file
+- renaming the bot from VoxyAvaliBot to Avali_Bot to make it less personal
