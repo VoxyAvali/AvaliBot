@@ -1,4 +1,4 @@
-# THIS PROJECT IS ABANDONED
-you can find the new version at https://github.com/VoxyAvali/AvaliBot
+# THIS PROJECT IS CURRENTLY WIP
+you can find the old version [here](https://github.com/VoxyAvali/AvaliBot/tree/old).
 
 
