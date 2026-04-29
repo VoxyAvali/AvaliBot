@@ -1,5 +1,5 @@
-# THIS PROJECT IS OUTDATED
-new version available on the 'main' branch
+# THIS BRANCH IS OUTDATED
+new version on the 'main' branch
 
 
 # VoxyAvaliBot
