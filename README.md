@@ -1,4 +1,5 @@
-# THIS PROJECT IS CURRENTLY SEMI-FUNCTIONAL AND UNDERGOING MAINTENANCE
+# THIS PROJECT IS OUTDATED
+new version available on the 'main' branch
 
 
 # VoxyAvaliBot
