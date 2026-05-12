@@ -9,3 +9,4 @@ names in consideration:
 fluffhelper
 fluffyassistant
 the_fluffybot
+thatflufffybot
