@@ -8,3 +8,4 @@ AvaliBot is my personal attempt to make an All-In-One twitch bot to not have the
 names in consideration:
 fluffhelper
 fluffyassistant
+the_fluffybot
