@@ -3,3 +3,8 @@ you can find the old, nonfunctional version [here](https://github.com/Voxyfluff/
 
 # About the project
 AvaliBot is my personal attempt to make an All-In-One twitch bot to not have the Users in Chat list be filled by a gajillion bots.
+
+
+names in consideration:
+fluffhelper
+fluffyassistant
